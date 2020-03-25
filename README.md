@@ -1,6 +1,4 @@
 # TicTacToe Game Engine And Agent 
-# Created by Raghava Pamula       
-# 03/24/2020                      
 
 INSTRUCTIONS:
 
